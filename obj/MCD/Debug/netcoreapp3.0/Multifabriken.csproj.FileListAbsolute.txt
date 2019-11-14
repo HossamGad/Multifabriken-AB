@@ -1,0 +1,11 @@
+C:\Users\hoss_\Desktop\Multifabriken AB\Multifabriken\bin\MCD\Debug\netcoreapp3.0\Multifabriken.exe
+C:\Users\hoss_\Desktop\Multifabriken AB\Multifabriken\bin\MCD\Debug\netcoreapp3.0\Multifabriken.deps.json
+C:\Users\hoss_\Desktop\Multifabriken AB\Multifabriken\bin\MCD\Debug\netcoreapp3.0\Multifabriken.runtimeconfig.json
+C:\Users\hoss_\Desktop\Multifabriken AB\Multifabriken\bin\MCD\Debug\netcoreapp3.0\Multifabriken.runtimeconfig.dev.json
+C:\Users\hoss_\Desktop\Multifabriken AB\Multifabriken\bin\MCD\Debug\netcoreapp3.0\Multifabriken.dll
+C:\Users\hoss_\Desktop\Multifabriken AB\Multifabriken\bin\MCD\Debug\netcoreapp3.0\Multifabriken.pdb
+C:\Users\hoss_\Desktop\Multifabriken AB\Multifabriken\obj\MCD\Debug\netcoreapp3.0\Multifabriken.csprojAssemblyReference.cache
+C:\Users\hoss_\Desktop\Multifabriken AB\Multifabriken\obj\MCD\Debug\netcoreapp3.0\Multifabriken.AssemblyInfoInputs.cache
+C:\Users\hoss_\Desktop\Multifabriken AB\Multifabriken\obj\MCD\Debug\netcoreapp3.0\Multifabriken.AssemblyInfo.cs
+C:\Users\hoss_\Desktop\Multifabriken AB\Multifabriken\obj\MCD\Debug\netcoreapp3.0\Multifabriken.dll
+C:\Users\hoss_\Desktop\Multifabriken AB\Multifabriken\obj\MCD\Debug\netcoreapp3.0\Multifabriken.pdb
